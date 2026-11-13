@@ -16,3 +16,4 @@ print("The final curtain should at least fall somewhere you actually want to be.
 print("And if it doesn't,")
 print("Then I hope you at least have the courage to walk away.")
 print("I wonder what truly destroys a person.")
+print("-----Truth-------")
